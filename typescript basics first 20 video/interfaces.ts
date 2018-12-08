@@ -1,4 +1,4 @@
-interface Person {
+/*interface Person {
     firstName: string;
     lastName: string;
     getFullName(): string;
@@ -22,3 +22,4 @@ let someObj = {
 };
 
 aPerson = someObj;
+*/

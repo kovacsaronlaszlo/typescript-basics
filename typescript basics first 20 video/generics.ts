@@ -1,4 +1,4 @@
-import {Person} from './classes';
+/*import {Person} from './classes';
 
 function  echo<T>(arg: T): T {
     return arg;
@@ -25,4 +25,4 @@ function personEcho<T extends Person>(person: T): T {
 }
 
 var foo = personEcho(admin);
-var bar = personEcho(manager);
+var bar = personEcho(manager);*/
